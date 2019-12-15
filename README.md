@@ -24,6 +24,9 @@ git clone https://github.com/seunmeme/Burger-Builder.git
 Using npm
 
 ```
+cd Burger-Builder
+```
+```
 npm install
 ```
 
